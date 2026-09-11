@@ -36,7 +36,7 @@ Este repositorio contiene el desarrollo del **Laboratorio #3** de la asignatura 
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/usuario/laboratorio3-controles-csharp.git
+   https://github.com/Lyrics354/Laboratorio-3.git
    ```
 2. Abrir la solución o carpeta de la actividad deseada en **Visual Studio 2026** (Actividades 1 y 3) o **Visual Studio Code** (Actividad 2).
 3. **Para la Actividad 2 (Craps):** si el proyecto no existe aún, generarlo con:
@@ -63,6 +63,8 @@ Este repositorio contiene el desarrollo del **Laboratorio #3** de la asignatura 
 - Caso de Estudio: DataGridView – Ing. Irina Fong
 - Caso de Estudio: Juego de Craps – Ing. Irina Fong
 - Ventana de Interfaz de Múltiples Documentos (MDI) – Ing. Irina Fong
-- Documentación oficial de Microsoft sobre [DataGridView Control](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/controls/datagridview-control-overview-windows-forms)
-- Documentación oficial de Microsoft sobre [Enumeraciones en C#](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/builtin-types/enum)
-- Documentación oficial de Microsoft sobre [Aplicaciones MDI en Windows Forms](https://learn.microsoft.com/es-es/dotnet/desktop/winforms/advanced/multiple-document-interface-mdi-applications)
+- Documento guia para laboratorio #3 https://virtual.utp.ac.pa/moodle/pluginfile.php/4964766/mod_assign/introattachment/0/Laboratorio%20de%20Validaciones%2C%20M%C3%A9todos%20Est%C3%A1ticos%20y%20Nuevos%20Controles%20%28DataGridView%29.docx?forcedownload=1
+- Documento explicación de la actividad #1 (DataGridView): https://virtual.utp.ac.pa/moodle/pluginfile.php/4964640/mod_folder/content/0/Caso%20de%20Estudio%20DataGridView.pptx?forcedownload=1
+- Documento explicación de la actividad #2 (Juego de Craps): https://virtual.utp.ac.pa/moodle/pluginfile.php/4964640/mod_folder/content/0/Caso%20de%20Juego%20de%20Craps.pptx?forcedownload=1
+- Documento explicación de la actividad #3 (Interfaz de Múltiples Documentos): https://virtual.utp.ac.pa/moodle/pluginfile.php/4964640/mod_folder/content/0/MDI.pptx?forcedownload=1
+
