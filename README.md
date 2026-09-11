@@ -22,14 +22,17 @@ Este repositorio contiene el desarrollo del **Laboratorio #3** de la asignatura 
 <img width="920" height="671" alt="image" src="https://github.com/user-attachments/assets/877ac751-7b03-48d7-b810-1e5843983226" />
 
 
+
 - **Actividad 2 – Juego de Craps:** Se implementó en C# una simulación del juego de dados **Craps**, creando una clase `Craps` (mediante `dotnet new class -n Craps`) que utiliza la clase `Random` para generar tiradas de dos dados a través del método `TirarDados()`. Se aplicó una **enumeración** (`enum NombreDados`) para representar los distintos estados/resultados del juego (por ejemplo, Continúa, Ganó, Perdió), realizando una **conversión explícita (casting)** de la suma entera de los dados al tipo enumerado mediante `(NombreDados) sumaDeDados`. La lógica del juego se controló con una estructura `switch` para evaluar el resultado de la tirada de salida y las tiradas posteriores hasta determinar si el jugador gana o pierde, siguiendo la terminología del juego (tirador, tirada de salida y punto).
 
 <img width="1467" height="507" alt="image" src="https://github.com/user-attachments/assets/6a1aa9b1-1d79-40e0-82a3-2a23c6cbd64f" />
 
 
+
 - **Actividad 3 – MDI (Interfaz de Múltiples Documentos):** Se construyó una aplicación de Windows Forms con arquitectura **MDI**, configurando el formulario principal como contenedor mediante la propiedad `IsMdiContainer = true`. Se crearon formularios hijos (por ejemplo, `frmVentanaTexto`) a los que se les asignó la propiedad `MdiParent` antes de mostrarlos con `.Show()`, garantizando que pertenezcan a la ventana padre. Se incorporó un `ToolStrip`/`MenuStrip` acoplado en la parte superior del formulario padre para la navegación entre ventanas hijas, ajustando el tamaño de los íconos mediante `ImageScalingSize`. Adicionalmente, se utilizó `Application.OpenForms.OfType<frmVentanaTexto>().FirstOrDefault()` para verificar si una ventana hija ya se encuentra abierta, y el método `BringToFront()` para traer al frente una ventana hija minimizada o tapada por otra.
 
 <img width="742" height="490" alt="image" src="https://github.com/user-attachments/assets/d9dd4f0f-28c7-427a-ac84-583f566dc92b" />
+
 
 
 ## ▶️ Instrucciones de Ejecución / Uso
