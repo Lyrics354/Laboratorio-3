@@ -1,0 +1,20 @@
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe.config
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.pdb
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.AssemblyReference.cache
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Properties.Resources.resources
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.exe
+C:\Users\wuwil\Downloads\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.pdb
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe.config
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.exe
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\bin\Debug\EjemploGrid.pdb
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.AssemblyReference.cache
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Form1.resources
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.Properties.Resources.resources
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.GenerateResource.cache
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.exe
+C:\Users\wuwil\OneDrive\Escritorio\HPA III\C#\EjemploGrid\EjemploGrid\obj\Debug\EjemploGrid.pdb
